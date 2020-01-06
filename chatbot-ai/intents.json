@@ -38,7 +38,7 @@
 		"tag":"buy",
 		"patterns":["can i buy something?","how much is a shake"],
 		"responses":["Yes shakes are for $2"],
-		"context_set":""
+		"context_set": ""
 		}
 	]
 }
